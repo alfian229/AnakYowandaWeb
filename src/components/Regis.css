@@ -1,0 +1,19 @@
+.regis {
+    min-height: 50vh;
+  }
+  .bg-imageR {
+    background-size: cover;
+    background-position: center;
+  }
+  .regis-heading {
+    font-weight: 300;
+  }
+  .btn-regis {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  .invalid
+  {
+    border-color: red!important;
+  }
